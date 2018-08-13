@@ -1,0 +1,139 @@
+C:\Users\adriansanchez\Desktop\Ejemplo CFDI 33\Timbrado33\Timbrado33\bin\Debug\Timbrado33.exe.config
+C:\Users\adriansanchez\Desktop\Ejemplo CFDI 33\Timbrado33\Timbrado33\bin\Debug\Timbrado33.exe
+C:\Users\adriansanchez\Desktop\Ejemplo CFDI 33\Timbrado33\Timbrado33\bin\Debug\Timbrado33.pdb
+C:\Users\adriansanchez\Desktop\Ejemplo CFDI 33\Timbrado33\Timbrado33\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adriansanchez\Desktop\Ejemplo CFDI 33\Timbrado33\Timbrado33\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adriansanchez\Desktop\Ejemplo CFDI 33\Timbrado33\Timbrado33\obj\Debug\Timbrado33.csprojResolveAssemblyReference.cache
+C:\Users\adriansanchez\Desktop\Ejemplo CFDI 33\Timbrado33\Timbrado33\obj\Debug\Timbrado33.Form1.resources
+C:\Users\adriansanchez\Desktop\Ejemplo CFDI 33\Timbrado33\Timbrado33\obj\Debug\Timbrado33.Properties.Resources.resources
+C:\Users\adriansanchez\Desktop\Ejemplo CFDI 33\Timbrado33\Timbrado33\obj\Debug\Timbrado33.csproj.GenerateResource.Cache
+C:\Users\adriansanchez\Desktop\Ejemplo CFDI 33\Timbrado33\Timbrado33\obj\Debug\Timbrado33.exe
+C:\Users\adriansanchez\Desktop\Ejemplo CFDI 33\Timbrado33\Timbrado33\obj\Debug\Timbrado33.pdb
+C:\Users\adriansanchez\Desktop\Ejemplo CFDI 33\Timbrado33\Timbrado33\bin\Debug\RestSharp.dll
+C:\Users\adriansanchez\Desktop\Ejemplo CFDI 33\Timbrado33\Timbrado33\bin\Debug\RestSharp.xml
+C:\Users\dadan\Downloads\Timbrado33\Timbrado33\bin\Debug\Timbrado33.exe.config
+C:\Users\dadan\Downloads\Timbrado33\Timbrado33\bin\Debug\Timbrado33.exe
+C:\Users\dadan\Downloads\Timbrado33\Timbrado33\bin\Debug\Timbrado33.pdb
+C:\Users\dadan\Downloads\Timbrado33\Timbrado33\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dadan\Downloads\Timbrado33\Timbrado33\bin\Debug\RestSharp.dll
+C:\Users\dadan\Downloads\Timbrado33\Timbrado33\bin\Debug\RestSharp.xml
+C:\Users\dadan\Downloads\Timbrado33\Timbrado33\obj\Debug\Timbrado33.csprojAssemblyReference.cache
+C:\Users\dadan\Downloads\Timbrado33\Timbrado33\obj\Debug\Timbrado33.Form1.resources
+C:\Users\dadan\Downloads\Timbrado33\Timbrado33\obj\Debug\Timbrado33.Properties.Resources.resources
+C:\Users\dadan\Downloads\Timbrado33\Timbrado33\obj\Debug\Timbrado33.csproj.GenerateResource.cache
+C:\Users\dadan\Downloads\Timbrado33\Timbrado33\obj\Debug\Timbrado33.csproj.CoreCompileInputs.cache
+C:\Users\dadan\Downloads\Timbrado33\Timbrado33\obj\Debug\Timbrado33.csproj.CopyComplete
+C:\Users\dadan\Downloads\Timbrado33\Timbrado33\obj\Debug\Timbrado33.exe
+C:\Users\dadan\Downloads\Timbrado33\Timbrado33\obj\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\bin\Debug\Timbrado33.exe.config
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\bin\Debug\Timbrado33.exe
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\bin\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\bin\Debug\RestSharp.dll
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\bin\Debug\RestSharp.xml
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\obj\Debug\Timbrado33.csprojAssemblyReference.cache
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\obj\Debug\Timbrado33.Form1.resources
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\obj\Debug\Timbrado33.Properties.Resources.resources
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\obj\Debug\Timbrado33.csproj.GenerateResource.cache
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\obj\Debug\Timbrado33.csproj.CoreCompileInputs.cache
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\obj\Debug\Timbrado33.csproj.CopyComplete
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\obj\Debug\Timbrado33.exe
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\obj\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\bin\Debug\MySql.Data.dll
+C:\Users\dadan\Desktop\Timbrado33\Timbrado33\bin\Debug\MySql.Data.xml
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\bin\Debug\Timbrado33.exe.config
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\bin\Debug\Timbrado33.exe
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\bin\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\bin\Debug\MySql.Data.dll
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\bin\Debug\RestSharp.dll
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\bin\Debug\MySql.Data.xml
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\bin\Debug\RestSharp.xml
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\obj\Debug\Timbrado33.csprojAssemblyReference.cache
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\obj\Debug\Timbrado33.Form1.resources
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\obj\Debug\Timbrado33.Properties.Resources.resources
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\obj\Debug\Timbrado33.csproj.GenerateResource.cache
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\obj\Debug\Timbrado33.csproj.CoreCompileInputs.cache
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\obj\Debug\Timbrado33.csproj.CopyComplete
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\obj\Debug\Timbrado33.exe
+C:\Users\dadan\Desktop\Timbado_bd\Timbrado33\obj\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\bin\Debug\Timbrado33.exe.config
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\bin\Debug\Timbrado33.exe
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\bin\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\bin\Debug\MySql.Data.dll
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\bin\Debug\RestSharp.dll
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\bin\Debug\MySql.Data.xml
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\bin\Debug\RestSharp.xml
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\obj\Debug\Timbrado33.csprojAssemblyReference.cache
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\obj\Debug\Timbrado33.Form1.resources
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\obj\Debug\Timbrado33.Properties.Resources.resources
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\obj\Debug\Timbrado33.csproj.GenerateResource.cache
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\obj\Debug\Timbrado33.csproj.CoreCompileInputs.cache
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\obj\Debug\Timbrado33.csproj.CopyComplete
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\obj\Debug\Timbrado33.exe
+C:\Users\dadan\Desktop\Timbado_bd _contador\Timbrado33\obj\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\bin\Debug\Timbrado33.exe.config
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\bin\Debug\Timbrado33.exe
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\bin\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\bin\Debug\MySql.Data.dll
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\bin\Debug\RestSharp.dll
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\bin\Debug\MySql.Data.xml
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\bin\Debug\RestSharp.xml
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\obj\Debug\Timbrado33.csprojAssemblyReference.cache
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\obj\Debug\Timbrado33.Form1.resources
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\obj\Debug\Timbrado33.Properties.Resources.resources
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\obj\Debug\Timbrado33.csproj.GenerateResource.cache
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\obj\Debug\Timbrado33.csproj.CoreCompileInputs.cache
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\obj\Debug\Timbrado33.csproj.CopyComplete
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\obj\Debug\Timbrado33.exe
+C:\Users\dadan\Desktop\Timbado_bd2\Timbrado33\obj\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\obj\Debug\Timbrado33.csprojAssemblyReference.cache
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\obj\Debug\Timbrado33.Form1.resources
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\obj\Debug\Timbrado33.Properties.Resources.resources
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\obj\Debug\Timbrado33.csproj.GenerateResource.cache
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\obj\Debug\Timbrado33.csproj.CoreCompileInputs.cache
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\obj\Debug\Timbrado33.exe
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\obj\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\bin\Debug\Timbrado33.exe.config
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\bin\Debug\Timbrado33.exe
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\bin\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\bin\Debug\MySql.Data.dll
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\bin\Debug\RestSharp.dll
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\bin\Debug\MySql.Data.xml
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\bin\Debug\RestSharp.xml
+C:\Users\dadan\Desktop\Timbado_listas\Timbrado33\obj\Debug\Timbrado33.csproj.CopyComplete
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\bin\Debug\Timbrado33.exe.config
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\bin\Debug\Timbrado33.exe
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\bin\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\bin\Debug\MySql.Data.dll
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\bin\Debug\RestSharp.dll
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\bin\Debug\MySql.Data.xml
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\bin\Debug\RestSharp.xml
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\obj\Debug\Timbrado33.csprojAssemblyReference.cache
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\obj\Debug\Timbrado33.Form1.resources
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\obj\Debug\Timbrado33.Properties.Resources.resources
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\obj\Debug\Timbrado33.csproj.GenerateResource.cache
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\obj\Debug\Timbrado33.csproj.CoreCompileInputs.cache
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\obj\Debug\Timbrado33.csproj.CopyComplete
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\obj\Debug\Timbrado33.exe
+C:\Users\dadan\Desktop\Timbado_listas2\Timbrado33\obj\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\bin\Debug\Timbrado33.exe.config
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\bin\Debug\Timbrado33.exe
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\bin\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\bin\Debug\MySql.Data.dll
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\bin\Debug\RestSharp.dll
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\bin\Debug\MySql.Data.xml
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\bin\Debug\RestSharp.xml
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\obj\Debug\Timbrado33.Form1.resources
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\obj\Debug\Timbrado33.Properties.Resources.resources
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\obj\Debug\Timbrado33.csproj.GenerateResource.cache
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\obj\Debug\Timbrado33.csproj.CoreCompileInputs.cache
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\obj\Debug\Timbrado33.csproj.CopyComplete
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\obj\Debug\Timbrado33.exe
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\obj\Debug\Timbrado33.pdb
+C:\Users\dadan\Desktop\Timbado_tablas\Timbrado33\obj\Debug\Timbrado33.csprojAssemblyReference.cache
